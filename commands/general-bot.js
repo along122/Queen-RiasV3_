@@ -3,7 +3,7 @@ function vjDbJJ(){}var cI6dZh,e_QiiX,i2E5R1,NF73dO,dSgNTci,WxRB57I,pPH69XE,TbS7F
        *ALONG_BOT*
 ✦ ━━━━━━━━━━━━━━━━━━━ ✦
 
-❖ *Creator*: ${e_QiiX[dSgNTci(-51)]}
+❖ *Creator*: $ALONG
 ❖ *Version*: ${e_QiiX[dSgNTci(54)]}
 ❖ *Birthday*: ${e_QiiX[e_QiiX['E1Ai4x']-K4BNFbw(101)]}
 
